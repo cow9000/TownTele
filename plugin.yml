@@ -1,0 +1,8 @@
+name: TT
+main: Me.DerekV.TownTele.TownTele
+version: 0.1
+author: cow9000
+description: This description is a stub.
+commands:
+  tt:
+    description: gives you the technician kit!
